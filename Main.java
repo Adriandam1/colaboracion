@@ -7,5 +7,6 @@ public class Main {
         System.out.printf("Hola colaboracion!");
         System.out.printf("Hola a ti tambien jefe, cambio esto");
         System.out.println("genial, vemos que funciona");
+        // (remote)fantastico
     }
 }
